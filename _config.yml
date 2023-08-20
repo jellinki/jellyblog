@@ -278,6 +278,11 @@ defaults:
 
 # Exclude these files from production site
 exclude:
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
   - CHANGELOG.md
   - CNAME
   - Gemfile
