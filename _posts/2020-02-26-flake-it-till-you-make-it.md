@@ -1,6 +1,6 @@
 ---
 layout: post
-title: pov i am a coder
+title: week 1
 subtitle: jk
 cover-img: /assets/img/crepe.jpg
 thumbnail-img: /assets/img/crepe.png
