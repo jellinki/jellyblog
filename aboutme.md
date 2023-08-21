@@ -4,14 +4,14 @@ title: about me
 subtitle: <3
 ---
 
-My name is Katelyn Gelle. 
+Hello, my name is Katelyn Gelle! I am a senior at Del Norte High School. I am seventeen years old, and my favorite color is purple. Here are my current classes this trimester:
 
-Fun facts about me below:
-- I do not have a mustache
-- I have two functional arms
-
-I also have a nose, but that's not particularly relevant.
+1st Period: Physics/Chemistry
+2nd Period: AP Statistics
+3rd Period: AP Literature & Composition
+4th Period: Computer Science
+5th Period: AP US Government & Politics
 
 ### my story
 
-I was born in the Philippines. Just kidding, I was not. Here is [a movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it is a **movie**.
+Want to hear more about me? Visit my [LinkedIn](https://www.linkedin.com/in/katelyn-gelle-6b225b278/)!
