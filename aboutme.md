@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: <3
+subtitle: ♡
 ---
 
 Hello, my name is Katelyn Gelle! I am a senior at Del Norte High School. I am seventeen years old, and my favorite color is purple. Here are my classes this trimester:
