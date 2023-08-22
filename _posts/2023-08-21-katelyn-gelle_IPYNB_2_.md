@@ -10,3 +10,6 @@ tags: ['test']
 comments: True
 ---
 
+## XXX Bash Tutorial  
+
+A brief overview of Bash, on your way to becoming a Linux expert.
