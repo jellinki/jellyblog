@@ -4,7 +4,7 @@ title: About Me
 subtitle: <3
 ---
 
-Hello, my name is Katelyn Gelle! I am a senior at Del Norte High School. I am seventeen years old, and my favorite color is purple. Here are my current classes this trimester:
+Hello, my name is Katelyn Gelle! I am a senior at Del Norte High School. I am seventeen years old, and my favorite color is purple. Here are my classes this trimester:
 
 <!--to make things appear on separate lines, add two spaces after each "line"-->
 1st Period: Physics/Chemistry  
