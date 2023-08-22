@@ -5,7 +5,7 @@ subtitle: Katelyn Gelle
 cover-img: /assets/img/akkalabotw.gif
 thumbnail-img: /assets/img/waitingzelda.jpg
 share-img: /assets/img/waitingzelda.jpg
-gh-repo: daattali/beautiful-jekyll
+gh-repo: jellinki/jellyblog
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
