@@ -17,6 +17,7 @@ Python is a programming language that can be used to build websites, automate ta
 
 Let's start off with a Python kernel below:
 
+
 ```python
 print("hello world")
 ```
@@ -43,9 +44,10 @@ while n!= guess:
 print("great job, you got it!")
 ```
 
-Okay, above, this is a short program that is a sort of guessing-game. The player can guess one of the computer's randomly generated numbers from 1 to 10. The program relies heavily on conditional statements such as "if", "elif", and "else". The "if" function poses a question to the computer to which it can reply with a response; these responses can be further developed through "else" (an outcome besides "if") "elif" (a secondary outcome besides else). In this particular program, if the player guesses a number that is too low, the "if" statement allows the computer to tell the player the guess is too low a value and prompts them to try again. The "elif" statement allows the computer to tell the player the guess is too high a value and prompts them to try again. Lastly, if the player guesses "else"--a number that is neither too low nor too high, in other words the perfect and correct number--the computer will tell the player that they are correct and commend them.
+Okay, above, this is a short program that is a sort of guessing-game. The player can guess one of the computer's randomly generated numbers from 1 to 10. The program relies heavily on conditional statements such as "if", "elif", and "else". The "if" function poses a question to the computer to which it can reply with a response; these responses can be further developed through "else" (an outcome besides "if") "elif" (a secondary outcome besides else). In this particular program, if the player guesses a number that is too low, the "if" statement allows the computer to tell the player the guess is too low a value and prompts them to try again. The "elif" statement allows the computer to tell the player the guess is too high a value and prompts them to try again. Lastly, if the player guesses "else"--a number that is neither too low nor too high, in other words the perfect and correct number--the computer will tell the player that they are correct and commend them.  
 
 Let's try another example, this time a little more complex:
+
 
 ```python
 import random
@@ -150,6 +152,7 @@ if __name__ == "__main__":
 ```
 
 This one is a work-in-progress that I call Bad Angband; it's a far more simplistic version of the text-based RPG Angband, a game based off of the lore from *The Lord of the Rings*. Here, players can encounter various monsters of different levels of health, attack, and defense, and can resort to melee attacks, mana restoration, and magical attacks in order to defeat their adversaries. However, I'm working on the magical damage; for some reason, it won't autokill the enemy once they're at 25 hitpoints. It isn't much of an obstacle, as the player can simply take them down the next turn with a basic melee attack, but it's still inconvenient. I'll find a way around it soon, though! :D
+
 
 ```python
 print("Link says 'you're doing great!'. Just kidding, he doesn't speak.")
