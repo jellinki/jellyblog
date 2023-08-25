@@ -1,5 +1,5 @@
 ---
-title: Java Notebook
+title: Jupyter Notebook
 subtitle: Katelyn Gelle
 cover-img: /assets/img/swordplaylink.gif
 thumbnail-img: /assets/img/heartlink.jpg
@@ -12,7 +12,10 @@ comments: True
 
 ## XXX Bash Tutorial  
 
-A brief overview of Bash, on your way to becoming a Linux expert.
+A brief overview of Bash, on your way to becoming a Linux expert. 
+
+So, what is bash used for?
+Bash is an application; it can be used to automate software development tasks, which makes things a lot more convenient for programmers. Bash can be used to assess, configure and optimize network performance on organizational networks.
 
 
 ```python
